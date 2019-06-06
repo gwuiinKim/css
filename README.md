@@ -20,4 +20,6 @@ grid template 을 이용하면 Table 같은 모양을 만들게 된다.
 - grid-template-rows: 25px 12px
 - grid-gap: 10px;
 
+- grid-template-areas
+
 ## CSS4 Selectors( modern css )
