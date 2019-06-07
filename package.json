@@ -1,0 +1,20 @@
+{
+  "name": "css",
+  "version": "1.0.0",
+  "description": "## CSS Flex",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gwuiinKim/css.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gwuiinKim/css/issues"
+  },
+  "homepage": "https://github.com/gwuiinKim/css#readme",
+  "scripts": {
+    "start": "parcel index.html"
+  }
+}
