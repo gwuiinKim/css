@@ -16,5 +16,8 @@
   "homepage": "https://github.com/gwuiinKim/css#readme",
   "scripts": {
     "start": "parcel index.html"
+  },
+  "dependencies": {
+    "postcss-preset-env": "^6.6.0"
   }
 }
