@@ -1,3 +1,6 @@
-body {
-  background-color: red;
+li:matches(:nth-child(odd)) {
+  background-color: blue;
 }
+/* li:not(.target) {
+  background-color: blue;
+} */
